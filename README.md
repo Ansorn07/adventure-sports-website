@@ -15,13 +15,6 @@ A clean, modern parallax-scrolling adventure landing page built using just **HTM
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo or [Download ZIP](https://github.com/Ansorn07/adventure-sports-website/archive/refs/heads/main.zip)
-2. Open `index.html` in any browser
-3. Enjoy the scroll ✨
-
----
 
 ## 💡 Author
 Made with focus & curiosity by **Babji A.S.** ([GitHub](https://github.com/Ansorn07))
