@@ -17,5 +17,5 @@ A clean, modern parallax-scrolling adventure landing page built using just **HTM
 
 
 ## 💡 Author
-Made with focus & curiosity by **Babji A.S.** ([GitHub](https://github.com/Ansorn07))
+Made with focus & curiosity by **A.S.Babji** ([GitHub](https://github.com/Ansorn07))
 
