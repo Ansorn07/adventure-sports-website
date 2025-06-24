@@ -23,25 +23,6 @@ A clean, modern parallax-scrolling adventure landing page built using just **HTM
 
 ---
 
-## 🖼 Preview Screenshot
-
-_(Add preview.png or deploy on GitHub Pages for live demo)_
-
----
-
-## 📁 Folder Structure
-
-```
-adventure-sports-website/
-├── index.html
-├── style.css
-├── favicon.ico
-├── images (all PNG/JPG assets)
-└── README.md
-```
-
----
-
 ## 💡 Author
 Made with focus & curiosity by **Babji A.S.** ([GitHub](https://github.com/Ansorn07))
 
